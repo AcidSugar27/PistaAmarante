@@ -1,0 +1,5 @@
+binary_search: 🏁 0.24947 s | Memoria: 0.000 MB
+quick_sort: 🏁 0.26609 s | Memoria: 0.230 MB
+sequential_search: 🏁 0.29675 s | Memoria: 0.180 MB
+insertion_sort: 🏁 0.61016 s | Memoria: 0.203 MB
+bubble_sort: 🏁 0.87382 s | Memoria: 0.266 MB
