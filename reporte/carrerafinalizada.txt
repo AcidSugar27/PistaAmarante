@@ -1,5 +1,7 @@
-binary_search: 🏁 0.24947 s | Memoria: 0.000 MB
-quick_sort: 🏁 0.26609 s | Memoria: 0.230 MB
-sequential_search: 🏁 0.29675 s | Memoria: 0.180 MB
-insertion_sort: 🏁 0.61016 s | Memoria: 0.203 MB
-bubble_sort: 🏁 0.87382 s | Memoria: 0.266 MB
+🏁 RESULTADOS DE LA CARRERA 🏁
+
+quick_sort: 0.21136 s | Memoria: 0.414 MB
+insertion_sort: 0.56980 s | Memoria: 0.395 MB
+bubble_sort: 0.87592 s | Memoria: 0.449 MB
+binary_search: 0.25830 s | Memoria: 0.344 MB
+sequential_search: 0.33606 s | Memoria: 0.371 MB
